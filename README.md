@@ -26,7 +26,7 @@ E-Mail : glvzcsecpa@gmail.com
 [![Love2D](https://skillicons.dev/icons?i=love2d)](https://love2d.org/)
 
 [![C++](https://skillicons.dev/icons?i=cpp)](https://isocpp.org/)
-[![C Sharp](https://skillicons.dev/icons?i=csharp)](https://learn.microsoft.com/es-es/dotnet/csharp/)
+[![C Sharp]([https://skillicons.dev/icons?i=csharp](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/C_Sharp_Logo_2023.svg/1200px-C_Sharp_Logo_2023.svg.png))](https://learn.microsoft.com/es-es/dotnet/csharp/)
 [![.NET](https://skillicons.dev/icons?i=dotnet)](https://dotnet.microsoft.com/)
 
 [![Ubuntu](https://skillicons.dev/icons?i=ubuntu)](https://ubuntu.com/)
